@@ -17,11 +17,6 @@
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
-    "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
-      "value": "ON",
-      "required": false
-    },
     "HANDLER": {
       "description": "Your command handler. Default is ' . ' (dot).",
       "value": "."
@@ -35,7 +30,7 @@
       "value": ""
     },
     "HELLBOT_SESSION": {
-      "description": "Get this value by using repl or termux. Refer to Repo for more info.",
+      "description": "Get this value by using repl or termux. More info at docs.hellbot.tech/string-session/",
       "value": ""
     },
     "HEROKU_API_KEY": {

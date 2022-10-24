@@ -39,12 +39,12 @@ selenium
 spotdl
 sqlalchemy==1.3.23
 telegraph
-telethon==1.24.0
 tgcrypto
 validators
 vcam
 
 git+https://github.com/HellBoy-OP/py-googletrans
+git+https://github.com/HellBoy-OP/Telethon
 git+https://github.com/HellBoy-OP/Wikipedia
 git+https://github.com/HellBoy-OP/yt-dp-fork
 git+https://github.com/HellBoy-OP/yt-search-python
