@@ -2,11 +2,11 @@
 
 
 _hell_telethon () {
-    echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1IZWxsQm90L1BsdWdpbnMtVC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+    echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1IZWxsQm90L1BsdWdpbnMtVC9iZXRhL21hc3Rlci56aXA=" | base64 -d
 }
 
 _hell_pyrogram () {
-    echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1IZWxsQm90L1BsdWdpbnMtUC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+    echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1IZWxsQm90L1BsdWdpbnMtUC9iZXRhL21hc3Rlci56aXA=" | base64 -d
 }
 
 _library () {
