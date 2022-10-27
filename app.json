@@ -1,7 +1,7 @@
 {
   "name": "Hêllẞø†",
   "description": "One of the best Userbot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
+  "logo": "https://te.legra.ph/file/7decf235312af8536e9aa.jpg ",
   "keywords": [
     "telegram",
     "userbot",
@@ -13,6 +13,18 @@
   ],
   "repository": "https://github.com/The-HellBot/HellBot/",
   "env": {
+    "API_HASH": {
+      "description": "Get this value from my.telegram.org",
+      "value": ""
+    },
+    "APP_ID": {
+      "description": "Get this value from my.telegram.org",
+      "value": ""
+    },
+    "BOT_TOKEN": {
+      "description": "Make a bot from @BotFather and paste the bot token here.",
+      "value": ""
+    },
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
@@ -20,14 +32,6 @@
     "HANDLER": {
       "description": "Your command handler. Default is ' . ' (dot).",
       "value": "."
-    },
-    "APP_ID": {
-      "description": "Get this value from my.telegram.org",
-      "value": ""
-    },
-    "API_HASH": {
-      "description": "Get this value from my.telegram.org",
-      "value": ""
     },
     "HELLBOT_SESSION": {
       "description": "Get this value by using repl or termux. More info at docs.hellbot.tech/string-session/",
@@ -40,31 +44,37 @@
     "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top. Required for updater to work.",
       "value": ""
-    },
-    "BOT_TOKEN": {
-      "description": "Make a bot from @BotFather and paste the bot token here.",
-      "value": ""
     }
   },
-  "addons": [{
-    "plan": "heroku-postgresql",
-    "options": {
-      "version": "12"
+  "addons": [
+    {
+      "plan": "heroku-postgresql",
+      "options": {
+        "version": "12"
+      }
     }
-  }],
-  "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-  },{
-    "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
-  },{
-    "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
-  },{
-    "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
-  },{
-    "url": "https://github.com/heroku/heroku-buildpack-apt.git"
-  },{
-    "url": "https://github.com/chrismytton/heroku-buildpack-jq"
-  },{
-    "url": "heroku/python"
-  }]
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-google-chrome"
+    },
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-chromedriver"
+    },
+    {
+      "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
+    },
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-apt.git"
+    },
+    {
+      "url": "https://github.com/chrismytton/heroku-buildpack-jq"
+    },
+    {
+      "url": "heroku/python"
+    }
+  ]
 }
