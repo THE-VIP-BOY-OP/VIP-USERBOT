@@ -1,35 +1,27 @@
 #!/bin/bash
 
 
-_hell_telethon () {
-    echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1IZWxsQm90L1BsdWdpbnMtVC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
-}
-
-_hell_pyrogram () {
-    echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1IZWxsQm90L1BsdWdpbnMtUC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
-}
-
-_library () {
-    if [[ $BOT_LIBRARY == "pyrogram" ]]
-    then 
-        python3 -m PyrogramHell
+_hell_zip () {
+    git_rex="(https?)://github.com/.+/.+"
+    if [[ $GIT_REPO =~ $git_rex ]]
+    then
+        if [[ $GIT_BRANCH ]]
+        then
+            echo "${GIT_REPO}/archive/${GIT_BRANCH}.zip"
+        else
+            echo "${GIT_REPO}/archive/master.zip"
+        fi
     else
-        python3 -m TelethonHell
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1IZWxsQm90L1BsdWdpbnMtVC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     fi
 }
+
 
 _starter () {
     local hellpath
     hellpath="Plugins.zip"
     echo "••• DOWNLOADING HELLBOT •••"
-
-    if [[ $BOT_LIBRARY == "pyrogram" ]]
-    then
-        wget -q $(_hell_pyrogram) -O "$hellpath"
-    else
-        wget -q $(_hell_telethon) -O "$hellpath"
-    fi
-
+    wget -q $(_hell_zip) -O "$hellpath"
     HELLPATH=$(zipinfo -1 "$hellpath" | grep -v "/.");
     unzip -qq "$hellpath"
     rm -rf "$hellpath"
@@ -37,8 +29,7 @@ _starter () {
 
     python3 ../updater.py ../requirements.txt requirements.txt
     echo "••• STARTING HELLBOT •••"
-
-    _library
+    python3 -m TelethonHell
 }
 
 _starter

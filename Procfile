@@ -1,1 +1,1 @@
-worker: bash beta
+worker: bash HELL
