@@ -60,6 +60,9 @@
 - Wait for requirements to finish.
 - Do human verification.
 - Select the type of session.
+
+- [![Replit](https://img.shields.io/badge/STRING-Run%20On%20ReplIT-blue?style=for-the-badge&logo=replit)](https://replit.com/@TheHellBot/HellBot?v=1)
+
     - Telethon
         - Fill API ID, API HASH, Phone number (with country code).
         - Paste the OTP received on Telegram.
