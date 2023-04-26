@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>𝗩𝗜𝗣 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 🇮🇳</b>
+  <b>♨️𝗩𝗜𝗣✰𝗨𝗦𝗘𝗥𝗕𝗢𝗧♨️</b>
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <h6 align="center">
-  <b>⚡ 𝗩𝗜𝗣 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 ⚡</b>
+  <b>⚡ 𝗩𝗜𝗣✰𝗨𝗦𝗘𝗥𝗕𝗢𝗧 ⚡</b>
 </h6>
 
 <h3 align="center">
@@ -22,7 +22,7 @@
 - Click on below button to access deploy page.
 - NOTE: Click on deploy button from your fork only.
 <h2 align="center">
-    ⚠️「 📍𝗙𝗢𝗥𝗞 𝗧𝗛𝗜𝗦 𝗥𝗘𝗣𝗢 𝗙𝗜𝗥𝗦𝗧𝗟𝗬📍 」⚠️
+    ⚠️「 •𝗙𝗢𝗥𝗞 𝗧𝗛𝗜𝗦 𝗥𝗘𝗣𝗢 𝗙𝗜𝗥𝗦𝗧𝗟𝗬• 」⚠️
 
 
 
@@ -35,6 +35,10 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-USERBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
+- [![Replit](https://img.shields.io/badge/STRING-Run%20On%20ReplIT-blue?style=for-the-badge&logo=replit)](https://replit.com/@TheHellBot/HellBot?v=1)
+
+<h3 align="center">
+ 「 ᴜsᴇ ʜᴇʟʙᴏᴛ sᴇssɪᴏɴ 」📍
 
 ------
 ------
@@ -72,6 +76,4 @@
         - Your Instagram Session will be displayed on the screen.
         - Copy it carefully and Do Not Share With Anyone!
         - Using a fake account is recommended.
-
-- [![Replit](https://img.shields.io/badge/STRING-Run%20On%20ReplIT-blue?style=for-the-badge&logo=replit)](https://replit.com/@TheHellBot/HellBot?v=1)
 
