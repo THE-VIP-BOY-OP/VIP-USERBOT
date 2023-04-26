@@ -38,7 +38,7 @@
 - [![Replit](https://img.shields.io/badge/STRING-Run%20On%20ReplIT-blue?style=for-the-badge&logo=replit)](https://replit.com/@TheHellBot/HellBot?v=1)
 
 <h3 align="center">
- 「 ᴜsᴇ ʜᴇʟʙᴏᴛ sᴇssɪᴏɴ 」📍
+ 「 ᴜsᴇ ʜᴇʟʟʙᴏᴛ sᴇssɪᴏɴ ɪɴ ʀᴇᴘʟɪᴛ 」📍
 
 ------
 ------
