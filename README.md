@@ -40,6 +40,9 @@
 <h3 align="center">
  「 ᴜsᴇ ʜᴇʟʟʙᴏᴛ sᴇssɪᴏɴ ɪɴ ʀᴇᴘʟɪᴛ 」📍
 
+## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
+- [![YouTube Video Views](https://img.shields.io/youtube/views/Sf7Wa44u_8M?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/Sf7Wa44u_8M)
+
 ------
 ------
 ## Variables
