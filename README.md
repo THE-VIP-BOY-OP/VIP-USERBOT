@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>♨️𝗩𝗜𝗣✰𝗨𝗦𝗘𝗥𝗕𝗢𝗧♨️</b>
+  <b>𝗩𝗜𝗣✰𝗨𝗦𝗘𝗥𝗕𝗢𝗧</b>
 </h1>
 
 <p align="center">
