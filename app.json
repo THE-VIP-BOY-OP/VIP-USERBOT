@@ -36,7 +36,7 @@
     },
     "HELLBOT_SESSION": {
       "description": "Get This Value From here:- ( https://t.me/VIP_CREATORS/635 ) . Read Repo for more info.",
-      "value": ""
+      "value": "skip this field now. fill after deploy  "
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API. Required for updater to work.",
