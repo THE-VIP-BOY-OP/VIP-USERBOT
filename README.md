@@ -61,7 +61,7 @@
   
 - Open Heroku and creat any app for get run console button
 
-1. Go to run console in heroku
+1. Click on More button & Go to run console in heroku
 
 2. Give command python3 hell_string.py
 
