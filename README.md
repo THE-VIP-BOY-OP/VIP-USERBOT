@@ -67,7 +67,11 @@
 
 3. Wait and put your api id and api hash and no. & Otp And check your saved msg
 
+<p align="center">
 
+  <img src="https://te.legra.ph/file/f43a04720d41d549bbd81.jpg" alt="VIP USERBOT">
+
+</p>
 
 - [![Replit](https://img.shields.io/badge/STRING-Run%20On%20ReplIT-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_CREATORS/635)
 
