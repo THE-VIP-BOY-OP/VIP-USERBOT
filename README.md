@@ -59,7 +59,7 @@
 
 ### How To Get HellBot Session
   
-- Open Heroku
+- Open Heroku and creat any app for get run console button
 
 1. Go to run console in heroku
 
