@@ -59,14 +59,17 @@
 
 ### How To Get HellBot Session
   
-- Open Heroku and creat any app for get run console button
+     ~Never Ban Heroku~
 
-1. Click on More button & Go to run console in heroku
+1. Deploy vip userbot and keep blank string session option
 
-2. Give command python3 hell_string.py
+2. After Deploy done Go to run console in heroku
 
-3. Wait and put your api id and api hash and no. & Otp And check your saved msg
+3. Give command python3 hell_string.py
 
+4. Wait and put your api id and api hash and no. & Otp And check your saved msg
+
+5. Copy your string session and fill in your heroku (revel bar option)
 <p align="center">
 
   <img src="https://te.legra.ph/file/f43a04720d41d549bbd81.jpg" alt="VIP USERBOT">
