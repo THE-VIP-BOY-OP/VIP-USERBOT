@@ -35,7 +35,7 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-USERBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-- [![Replit](https://img.shields.io/badge/STRING-Run%20On%20ReplIT-blue?style=for-the-badge&logo=replit)](https://replit.com/@TheHellBot/HellBot?v=1)
+- [![Replit](https://img.shields.io/badge/STRING-Run%20On%20ReplIT-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_CREATORS/635))
 
 <h3 align="center">
  「 ᴜsᴇ ʜᴇʟʟʙᴏᴛ sᴇssɪᴏɴ ɪɴ ʀᴇᴘʟɪᴛ 」📍
@@ -57,14 +57,19 @@
 ------
 ## String Session
 
-### Repl
-- Open Repl Link.
-- Click on Green Play Button.
-- Wait for requirements to finish.
-- Do human verification.
-- Select the type of session.
+### How To Get HellBot Session
+  
+- Open Heroku
 
-- [![Replit](https://img.shields.io/badge/STRING-Run%20On%20ReplIT-blue?style=for-the-badge&logo=replit)](https://replit.com/@TheHellBot/HellBot?v=1)
+1. Go to run console in heroku
+
+2. Give command python3 hell_string.py
+
+3. Wait and put your api id and api hash and no. & Otp And check your saved msg
+
+
+
+- [![Replit](https://img.shields.io/badge/STRING-Run%20On%20ReplIT-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_CREATORS/635)
 
     - Telethon
         - Fill API ID, API HASH, Phone number (with country code).
