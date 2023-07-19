@@ -35,7 +35,7 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-USERBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-- [![sᴇssɪᴏɴ](https://img.shields.io/badge/STRING-Run%20On%20ReplIT-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_USERBOT_SESSION_BOT)
+- [![sᴇssɪᴏɴ](https://img.shields.io/badge/STRING-Generate%20By%20Bot-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_USERBOT_SESSION_BOT)
 
 <h3 align="center">
  「 ᴜsᴇ ʜᴇʟʟʙᴏᴛ sᴇssɪᴏɴ ɪɴ ʀᴇᴘʟɪᴛ 」📍
