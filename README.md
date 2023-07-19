@@ -63,7 +63,7 @@
 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲 𝗛𝗲𝗹𝗹𝗯𝗼𝘁 𝗦𝘁𝗿𝗶𝗻𝗴 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 𝗙𝗿𝗼𝗺 𝗛𝗲𝗿𝗲:- [𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐅𝐎𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍](https://t.me/VIP_USERBOT_SESSION_BOT)
 <p align="center">
 
-  <img src="https://te.legra.ph/file/f43a04720d41d549bbd81.jpg" alt="VIP USERBOT">
+  <img src="https://telegra.ph/file/e2d9dbed15c66405cf7ac.jpg" alt="VIP USERBOT">
 
 </p>
 
