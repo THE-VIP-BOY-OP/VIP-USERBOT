@@ -67,7 +67,7 @@
 
 </p>
 
-- [![𝐒𝐞𝐬𝐬𝐢𝐨𝐧](https://img.shields.io/badge/STRING-Run%20On%20ReplIT-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_USERBOT_SESSION_BOT)
+- [![𝐒𝐞𝐬𝐬𝐢𝐨𝐧](https://img.shields.io/badge/STRING-𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞%20𝐈𝐧%20𝐁𝐨𝐭-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_USERBOT_SESSION_BOT?start=help)
 
     - Telethon
         - Fill API ID, API HASH, Phone number (with country code).
