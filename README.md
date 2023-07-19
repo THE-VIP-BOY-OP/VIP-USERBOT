@@ -49,7 +49,7 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `HELLBOT_SESSION`  =  Get this by using [Repl.it](#Repl).
+- `HELLBOT_SESSION`  =  Get this by using [𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐁𝐨𝐭](#Repl).
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `HANDLER`  =  Your command handler.
 - `DATABASE_URL`  =  A Postgresql database url.
