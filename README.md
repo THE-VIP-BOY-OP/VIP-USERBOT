@@ -35,7 +35,7 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-USERBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-- [![Replit](https://img.shields.io/badge/STRING-Run%20On%20ReplIT-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_CREATORS/635)
+- [![sᴇssɪᴏɴ](https://img.shields.io/badge/STRING-Run%20On%20ReplIT-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_USERBOT_SESSION_BOT)
 
 <h3 align="center">
  「 ᴜsᴇ ʜᴇʟʟʙᴏᴛ sᴇssɪᴏɴ ɪɴ ʀᴇᴘʟɪᴛ 」📍
@@ -60,23 +60,14 @@
 ### How To Get HellBot Session
   
      ~Never Ban Heroku~
-
-1. Deploy vip userbot and keep blank string session option
-
-2. After Deploy done Go to run console in heroku
-
-3. Give command python3 hell_string.py
-
-4. Wait and put your api id and api hash and no. & Otp And check your saved msg
-
-5. Copy your string session and fill in your heroku (revel bar option)
+𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲 𝗛𝗲𝗹𝗹𝗯𝗼𝘁 𝗦𝘁𝗿𝗶𝗻𝗴 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 𝗙𝗿𝗼𝗺 𝗛𝗲𝗿𝗲:- [𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐅𝐎𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍](https://t.me/VIP_USERBOT_SESSION_BOT)
 <p align="center">
 
   <img src="https://te.legra.ph/file/f43a04720d41d549bbd81.jpg" alt="VIP USERBOT">
 
 </p>
 
-- [![Replit](https://img.shields.io/badge/STRING-Run%20On%20ReplIT-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_CREATORS/635)
+- [![𝐒𝐞𝐬𝐬𝐢𝐨𝐧](https://img.shields.io/badge/STRING-Run%20On%20ReplIT-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_USERBOT_SESSION_BOT)
 
     - Telethon
         - Fill API ID, API HASH, Phone number (with country code).
