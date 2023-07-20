@@ -35,7 +35,7 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-USERBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-- [![sᴇssɪᴏɴ](https://img.shields.io/badge/STRING-Generate%20By%20Bot-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_USERBOT_SESSION_BOT)
+- [![sᴇssɪᴏɴ](https://img.shields.io/badge/STRING-Generate%20By%20Bot-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_USERBOT_SESSION_ROBOT)
 
 <h3 align="center">
  「 ᴜsᴇ ʜᴇʟʟʙᴏᴛ sᴇssɪᴏɴ ɪɴ ʀᴇᴘʟɪᴛ 」📍
@@ -60,14 +60,14 @@
 ### How To Get HellBot Session
   
      ~Never Ban Heroku~
-𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲 𝗛𝗲𝗹𝗹𝗯𝗼𝘁 𝗦𝘁𝗿𝗶𝗻𝗴 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 𝗙𝗿𝗼𝗺 𝗛𝗲𝗿𝗲:- [𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐅𝐎𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍](https://t.me/VIP_USERBOT_SESSION_BOT)
+𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲 𝗛𝗲𝗹𝗹𝗯𝗼𝘁 𝗦𝘁𝗿𝗶𝗻𝗴 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 𝗙𝗿𝗼𝗺 𝗛𝗲𝗿𝗲:- [𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐅𝐎𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍](https://t.me/VIP_USERBOT_SESSION_ROBOT)
 <p align="center">
 
   <img src="https://telegra.ph/file/e2d9dbed15c66405cf7ac.jpg" alt="VIP USERBOT">
 
 </p>
 
-- [![𝐒𝐞𝐬𝐬𝐢𝐨𝐧](https://img.shields.io/badge/STRING-𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞%20𝐈𝐧%20𝐁𝐨𝐭-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_USERBOT_SESSION_BOT?start=help)
+- [![𝐒𝐞𝐬𝐬𝐢𝐨𝐧](https://img.shields.io/badge/STRING-𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞%20𝐈𝐧%20𝐁𝐨𝐭-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_USERBOT_SESSION_ROBOT?start=help)
 
     - Telethon
         - Fill API ID, API HASH, Phone number (with country code).
