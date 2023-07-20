@@ -49,6 +49,11 @@
       "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
       "value": "ON",
       "required": false
+    },
+    "ABUSE": {
+      "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
+      "value": "ON",
+      "required": false
     }
   },
   "addons": [{
