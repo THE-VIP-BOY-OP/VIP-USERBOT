@@ -60,6 +60,11 @@
       "value": "https://te.legra.ph/file/fc16ea0381c344fcedf3d.jpg",
       "required": false
     },
+    "PMPERMIT_PIC": {
+      "description": "ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sᴇᴛ ʏᴏᴜʀ ᴘɪc ɪɴ ᴘᴍ ᴘᴇʀᴍɪssɪᴏɴ ᴛʜᴇɴ ғɪʟʟ ʜᴇʀᴇ ᴘɪᴄ ʟɪɴᴋ ᴏᴛʜᴇʀᴡɪsᴇ ɪɢɴᴏʀᴇ ᴛʜɪs",
+      "value": "https://te.legra.ph/file/fc16ea0381c344fcedf3d.jpg",
+      "required": false
+    },
     "ALIVE_PIC": {
       "description": "sᴇᴛ ᴛʜᴇ ɴᴜᴍʙᴇʀ ᴏғ ᴍᴇssᴀɢᴇ ᴛʜᴀᴛ ᴜsɪɴɢ ɪᴍ ᴘᴍ ᴘᴇʀᴍɪssɪᴏɴ, ᴀғᴛᴇʀ ᴛʜᴀᴛ ɴᴏ. ᴏғ ᴍᴇssᴀɢᴇ ᴜsᴇʀs ᴡɪʟʟ ᴀᴜᴛᴏ ʙʟᴏᴄᴋᴇᴅ",
       "value": "https://te.legra.ph/file/fc16ea0381c344fcedf3d.jpg",
