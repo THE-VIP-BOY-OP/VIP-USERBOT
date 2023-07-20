@@ -44,7 +44,7 @@
     },
     "HEROKU_APP_NAME": {
       "description": "ʟᴇᴀᴠᴇ ᴛʜɪs ғɪᴇʟᴅ ʙʟᴀɴᴋ ғᴏʀ ʏᴏᴜʀ sᴀғᴇᴛʏ",
-      "value": ""
+      "value": "",
       "required": false
     },    
     "ABUSE": {
