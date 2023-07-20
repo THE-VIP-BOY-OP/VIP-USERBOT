@@ -51,7 +51,7 @@
       "required": false
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
+      "description": "sᴇᴛ ᴛʜᴇ ɴᴜᴍʙᴇʀ ᴏғ ᴍᴇssᴀɢᴇ ᴛʜᴀᴛ ᴜsɪɴɢ ɪᴍ ᴘᴍ ᴘᴇʀᴍɪssɪᴏɴ, ᴀғᴛᴇʀ ᴛʜᴀᴛ ɴᴏ. ᴏғ ᴍᴇssᴀɢᴇ ᴜsᴇʀs ᴡɪʟʟ ᴀᴜᴛᴏ ʙʟᴏᴄᴋᴇᴅ",
       "value": "ON",
       "required": false
     }
