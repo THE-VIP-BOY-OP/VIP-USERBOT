@@ -74,7 +74,7 @@
       "description": "sᴇᴛ ᴛʜᴇ ɴᴜᴍʙᴇʀ ᴏғ ᴍᴇssᴀɢᴇ ᴛʜᴀᴛ ᴜsɪɴɢ ɪᴍ ᴘᴍ ᴘᴇʀᴍɪssɪᴏɴ, ᴀғᴛᴇʀ ᴛʜᴀᴛ ɴᴏ. ᴏғ ᴍᴇssᴀɢᴇ ᴜsᴇʀs ᴡɪʟʟ ᴀᴜᴛᴏ ʙʟᴏᴄᴋᴇᴅ",
       "value": "5",
       "required": false
-    }
+    },
   },
   "addons": [{
     "plan": "heroku-postgresql",
