@@ -51,7 +51,7 @@
       "required": false
     },
     "HELP_PIC": {
-      "description": "sᴇᴛ ᴛʜᴇ ɴᴜᴍʙᴇʀ ᴏғ ᴍᴇssᴀɢᴇ ᴛʜᴀᴛ ᴜsɪɴɢ ɪᴍ ᴘᴍ ᴘᴇʀᴍɪssɪᴏɴ, ᴀғᴛᴇʀ ᴛʜᴀᴛ ɴᴏ. ᴏғ ᴍᴇssᴀɢᴇ ᴜsᴇʀs ᴡɪʟʟ ᴀᴜᴛᴏ ʙʟᴏᴄᴋᴇᴅ",
+      "description": "ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sᴇᴛ ʏᴏᴜʀ ᴘɪc ɪɴ ᴘɪɴɢ ᴄᴏᴍᴀɴᴅ ᴛʜᴇɴ ғɪʟʟ ʜᴇʀᴇ ᴘɪᴄ ʟɪɴᴋ ᴏᴛʜᴇʀᴡɪsᴇ ɪɢɴᴏʀᴇ ᴛʜɪs",
       "value": "https://te.legra.ph/file/fc16ea0381c344fcedf3d.jpg",
       "required": false
     },
