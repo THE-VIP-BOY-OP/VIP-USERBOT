@@ -51,26 +51,6 @@
       "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
       "value": "ON",
       "required": false
-    },
-    "HELP_PIC": {
-      "description": "ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sᴇᴛ ʏᴏᴜʀ ᴘɪc ɪɴ ᴘɪɴɢ ᴄᴏᴍᴀɴᴅ ᴛʜᴇɴ ғɪʟʟ ʜᴇʀᴇ ᴘɪᴄ ʟɪɴᴋ ᴏᴛʜᴇʀᴡɪsᴇ ɪɢɴᴏʀᴇ ᴛʜɪs",
-      "value": "https://te.legra.ph/file/a4d70a05fc936194ff61c.jpg",
-      "required": false
-    },
-    "PING_PIC": {
-      "description": "ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sᴇᴛ ʏᴏᴜʀ ᴘɪc ɪɴ ᴘɪɴɢ ᴄᴏᴍᴀɴᴅ ᴛʜᴇɴ ғɪʟʟ ʜᴇʀᴇ ᴘɪᴄ ʟɪɴᴋ ᴏᴛʜᴇʀᴡɪsᴇ ɪɢɴᴏʀᴇ ᴛʜɪs",
-      "value": "https://te.legra.ph/file/a4d70a05fc936194ff61c.jpg",
-      "required": false
-    },
-    "PMPERMIT_PIC": {
-      "description": "ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sᴇᴛ ʏᴏᴜʀ ᴘɪc ɪɴ ᴘᴍ ᴘᴇʀᴍɪssɪᴏɴ ᴛʜᴇɴ ғɪʟʟ ʜᴇʀᴇ ᴘɪᴄ ʟɪɴᴋ ᴏᴛʜᴇʀᴡɪsᴇ ɪɢɴᴏʀᴇ ᴛʜɪs",
-      "value": "https://te.legra.ph/file/a4d70a05fc936194ff61c.jpg",
-      "required": false
-    },
-    "ALIVE_PIC": {
-      "description": "sᴇᴛ ᴛʜᴇ ɴᴜᴍʙᴇʀ ᴏғ ᴍᴇssᴀɢᴇ ᴛʜᴀᴛ ᴜsɪɴɢ ɪɴ ᴘᴍ ᴘᴇʀᴍɪssɪᴏɴ, ᴀғᴛᴇʀ ᴛʜᴀᴛ ɴᴏ. ᴏғ ᴍᴇssᴀɢᴇ ᴜsᴇʀs ᴡɪʟʟ ᴀᴜᴛᴏ ʙʟᴏᴄᴋᴇᴅ",
-      "value": "https://te.legra.ph/file/a4d70a05fc936194ff61c.jpg",
-      "required": false
     }
   },
   "addons": [{
