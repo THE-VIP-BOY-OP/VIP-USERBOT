@@ -38,7 +38,13 @@
 - [![sᴇssɪᴏɴ](https://img.shields.io/badge/STRING-Generate%20By%20Bot-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_USERBOT_SESSION_ROBOT)
 
 <h3 align="center">
- 「 ᴜsᴇ ʜᴇʟʟʙᴏᴛ sᴇssɪᴏɴ ɪɴ ʀᴇᴘʟɪᴛ 」📍
+ 「 ᴜsᴇ ʜᴇʟʟʙᴏᴛ sᴇssɪᴏɴ ɪɴ ʙᴏᴛ 」📍
+
+
+🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
+<p align="center">
+<a href="https://telegram.me/THE_VIP_BOY"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐕𝐈𝐏 𝐁𝐎𝐘%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
 ## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
 - [![YouTube Video Views](https://img.shields.io/youtube/views/Sf7Wa44u_8M?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/Sf7Wa44u_8M)
