@@ -17,7 +17,6 @@
 -------
 ## Deploy To Heroku
 - Get All The Necessary Variables And Deploy To Heroku.
-- Some Mandatory Variables Are listed [Here](#Variables).
 - Fork & Star this repo.
 - Click on below button to access deploy page.
 - NOTE: Click on deploy button from your fork only.
@@ -35,7 +34,7 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-USERBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-- [![sᴇssɪᴏɴ](https://img.shields.io/badge/STRING-Generate%20By%20Bot-blue?style=for-the-badge&logo=replit)](https://t.me/LegendSessionBot)
+- [![sᴇssɪᴏɴ](https://img.shields.io/badge/STRING-Generate%20By%20Bot-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_STRING_ROBOT)
 <h3 align="center">
  「 ᴜsᴇ ʜᴇʟʟʙᴏᴛ sᴇssɪᴏɴ ɪɴ ʙᴏᴛ 」📍
 
@@ -54,11 +53,11 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `HELLBOT_SESSION`  =  Get this by using [𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐁𝐨𝐭](#Repl).
+- `STRING_SESSION`  =  Get this by using [𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐁𝐨𝐭](#Repl). & Pyrogram v2 String Session
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `HANDLER`  =  Your command handler.
 - `DATABASE_URL`  =  A Postgresql database url.
-
+- `LOG_GROUP_ID` = Get This Value From Your New Private Chat Where Your Bot + userbot is Always stay Admin
 ------
 ## String Session
 
