@@ -58,7 +58,9 @@
 - `MONGO_DATABASE`  =  Make A Mongo Database And Fill.
 - `LOG_GROUP_ID` = Get This Value From Your New Private Chat Where Your Bot + userbot is Always stay Admin
 ------
-Or, simply run the following commands in your Vps,
+## VPS DEPLOY
+
+Simply run the following commands in your Vps,
 
 1. At first enter this command and wait untill complete.
 ```
@@ -67,7 +69,7 @@ sudo apt update && sudo apt install git curl nano screen python3-pip ffmpeg -y &
 
 2. Now simply copy and paste this command and wait.
 ```
-sudo rm -rf Genius && git clone https://github.com/THE-VIP-BOY-OP/VIP-USERBOT && cd VIP-USERBOT && pip3 install -r Installer && screen -R Genius
+sudo rm -rf Genius && git clone https://github.com/AdityaHalder/Genius-Userbot Genius && cd Genius && pip3 install -r Installer && screen -R Genius
 ```
 
 4. After that, Enter this command and put your vars and hit ```ctrl+s``` to save and hit ```ctrl+x``` To Close Text Editor.
@@ -81,7 +83,6 @@ cp Internal.env Internal && python3 -m AdityaHalder
 ```
 
 8. Finnally, just hit ```ctrl+a+d``` to minimize your bot for run in background.
-
 ## String Session
 
 ### How To Get Pyrogram V2 Session
