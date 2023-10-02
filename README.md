@@ -36,7 +36,7 @@
 
 - [![sᴇssɪᴏɴ](https://img.shields.io/badge/STRING-Generate%20By%20Bot-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_STRING_ROBOT)
 <h3 align="center">
- 「 ᴜsᴇ ʜᴇʟʟʙᴏᴛ sᴇssɪᴏɴ ɪɴ ʙᴏᴛ 」📍
+ 「 ᴜsᴇ ᴘʏʀᴏɢʀᴀᴍᴠ2 sᴇssɪᴏɴ ɪɴ ʙᴏᴛ 」📍
 
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
