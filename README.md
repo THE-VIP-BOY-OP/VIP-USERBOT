@@ -11,7 +11,7 @@
 </h6>
 
 <h3 align="center">
-  <b>A Smooth & Fast Telegram Userbot Based On Telethon Bot Library.</b>
+  <b>A Smooth & Fast Telegram Userbot Based On Pyrogram V2 Bot Library.</b>
 </h3>
 
 -------
@@ -55,40 +55,29 @@
 - `API_HASH`  =  Get this value from my.telegram.org
 - `STRING_SESSION`  =  Get this by using [𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐁𝐨𝐭](#Repl). & Pyrogram v2 String Session
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
-- `HANDLER`  =  Your command handler.
-- `DATABASE_URL`  =  A Postgresql database url.
+- `MONGO_DATABASE`  =  Make A Mongo Database And Fill.
 - `LOG_GROUP_ID` = Get This Value From Your New Private Chat Where Your Bot + userbot is Always stay Admin
 ------
 ## String Session
 
-### How To Get HellBot Session
+### How To Get Pyrogram V2 Session
   
      ~Never Ban Heroku~
-𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲 𝗛𝗲𝗹𝗹𝗯𝗼𝘁 𝗦𝘁𝗿𝗶𝗻𝗴 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 𝗙𝗿𝗼𝗺 𝗛𝗲𝗿𝗲:- [𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐅𝐎𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍](https://t.me/LegendSessionBot)
+𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲 𝗣𝘆𝗿𝗼𝗴𝗿𝗮𝗺 𝗩2 𝗦𝘁𝗿𝗶𝗻𝗴 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 𝗙𝗿𝗼𝗺 𝗛𝗲𝗿𝗲:- [𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐅𝐎𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍](https://t.me/VIP_STRING_ROBOT)
 <p align="center">
 
-  <img src="https://telegra.ph/file/e2d9dbed15c66405cf7ac.jpg" alt="VIP USERBOT">
+  <img src="https://te.legra.ph/file/e4e9ad2d604c9e3ad2e61.jpg" alt="VIP USERBOT">
 
 </p>
 
-- [![𝐒𝐞𝐬𝐬𝐢𝐨𝐧](https://img.shields.io/badge/STRING-𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞%20𝐈𝐧%20𝐁𝐨𝐭-blue?style=for-the-badge&logo=replit)](https://t.me/LegendSessionBot?start=help)
+- [![𝐒𝐞𝐬𝐬𝐢𝐨𝐧](https://img.shields.io/badge/STRING-𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞%20𝐈𝐧%20𝐁𝐨𝐭-blue?style=for-the-badge&logo=replit)](https://t.me/VIP_STRING_ROBOT)
 
-    - Telethon
-        - Fill API ID, API HASH, Phone number (with country code).
-        - Paste the OTP received on Telegram.
-        - If You have Enabled 2-Step Verification then fill your password.
-        - Your Telethon Session Will be saved in your Telegram Saved Message.
-    - Pyrogram
+    
+    - Pyrogram V2
         - Fill API ID, API HASH, Phone number (with country code).
         - Paste the OTP received on Telegram.
         - If You have Enabled 2-Step Verification then fill your password.
         - Your Pyrogram Session will be saved in your Telegram Saved Message.
-    - Instagram
-        - Fill instagram username and password.
-        - If asked for OTP check yout email and fill up the OTP from there.
-        - Your Instagram Session will be displayed on the screen.
-        - Copy it carefully and Do Not Share With Anyone!
-        - Using a fake account is recommended.
           ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
